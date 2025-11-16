@@ -1,0 +1,14 @@
+C:\Users\skhen\Tool2Go\bin\Debug\net8.0\Tool2Go.exe
+C:\Users\skhen\Tool2Go\bin\Debug\net8.0\Tool2Go.deps.json
+C:\Users\skhen\Tool2Go\bin\Debug\net8.0\Tool2Go.runtimeconfig.json
+C:\Users\skhen\Tool2Go\bin\Debug\net8.0\Tool2Go.dll
+C:\Users\skhen\Tool2Go\bin\Debug\net8.0\Tool2Go.pdb
+C:\Users\skhen\Tool2Go\obj\Debug\net8.0\Tool2Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skhen\Tool2Go\obj\Debug\net8.0\Tool2Go.AssemblyInfoInputs.cache
+C:\Users\skhen\Tool2Go\obj\Debug\net8.0\Tool2Go.AssemblyInfo.cs
+C:\Users\skhen\Tool2Go\obj\Debug\net8.0\Tool2Go.csproj.CoreCompileInputs.cache
+C:\Users\skhen\Tool2Go\obj\Debug\net8.0\Tool2Go.dll
+C:\Users\skhen\Tool2Go\obj\Debug\net8.0\refint\Tool2Go.dll
+C:\Users\skhen\Tool2Go\obj\Debug\net8.0\Tool2Go.pdb
+C:\Users\skhen\Tool2Go\obj\Debug\net8.0\Tool2Go.genruntimeconfig.cache
+C:\Users\skhen\Tool2Go\obj\Debug\net8.0\ref\Tool2Go.dll

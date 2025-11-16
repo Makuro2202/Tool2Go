@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKunde xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Kunde>
+    <Vorname>Erwachsener</Vorname>
+    <Nachname>Kunde</Nachname>
+    <Adresse>Altstraße 10, 12345 Berlin</Adresse>
+    <Geburtsdatum>1990-01-01T00:00:00</Geburtsdatum>
+    <Iban>DE44500105175407324931</Iban>
+  </Kunde>
+  <Kunde>
+    <Vorname>Junger</Vorname>
+    <Nachname>Kunde</Nachname>
+    <Adresse>Jungstraße 20, 54321 Köln</Adresse>
+    <Geburtsdatum>2008-04-15T00:00:00+02:00</Geburtsdatum>
+  </Kunde>
+  <Kunde>
+    <Vorname>Özgürcan</Vorname>
+    <Nachname>Cevlani</Nachname>
+    <Adresse>Friedensplatz 13</Adresse>
+    <Geburtsdatum>1999-09-05T00:00:00</Geburtsdatum>
+  </Kunde>
+</ArrayOfKunde>

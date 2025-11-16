@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWerkzeugkategorie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Werkzeugkategorie>
+    <Id>f2ee56f8-b6c6-4e39-9461-a658e54d0436</Id>
+    <Name>Bagger</Name>
+    <LeihgebuehrProTag>90</LeihgebuehrProTag>
+    <LeihgebuehrProWoche>500</LeihgebuehrProWoche>
+    <Versicherungspflicht>true</Versicherungspflicht>
+    <Werkzeuge>
+      <Werkzeug>
+        <Id>cee61360-c2c0-44fd-8edb-17f937cb846d</Id>
+        <Hersteller>Caterpillar</Hersteller>
+        <Modell>301.7D</Modell>
+        <TechnischeDaten>1,7t, Diesel, Tieflöffel</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>f2ee56f8-b6c6-4e39-9461-a658e54d0436</KategorieId>
+      </Werkzeug>
+      <Werkzeug>
+        <Id>88359b73-926d-494a-8391-35001a178921</Id>
+        <Hersteller>Caterpillar</Hersteller>
+        <Modell>301.7D</Modell>
+        <TechnischeDaten>1,7t, Diesel, Tieflöffel</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>f2ee56f8-b6c6-4e39-9461-a658e54d0436</KategorieId>
+      </Werkzeug>
+      <Werkzeug>
+        <Id>8e1c9966-d708-446f-b8e9-9773db64c400</Id>
+        <Hersteller>Caterpillar</Hersteller>
+        <Modell>301.7D</Modell>
+        <TechnischeDaten>1,8t, Diesel, Tieflöffel</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>f2ee56f8-b6c6-4e39-9461-a658e54d0436</KategorieId>
+      </Werkzeug>
+      <Werkzeug>
+        <Id>05d0f60e-1a82-425d-aba5-e2f828112d62</Id>
+        <Hersteller>Hitachi</Hersteller>
+        <Modell>ZX10U</Modell>
+        <TechnischeDaten>1,1t, Diesel, Tieflöffel</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>f2ee56f8-b6c6-4e39-9461-a658e54d0436</KategorieId>
+      </Werkzeug>
+    </Werkzeuge>
+  </Werkzeugkategorie>
+  <Werkzeugkategorie>
+    <Id>e0ecdbc4-0079-4d97-a8f4-f0125203ff1a</Id>
+    <Name>Bohrhammer</Name>
+    <LeihgebuehrProTag>30</LeihgebuehrProTag>
+    <LeihgebuehrProWoche>150</LeihgebuehrProWoche>
+    <Versicherungspflicht>false</Versicherungspflicht>
+    <Werkzeuge>
+      <Werkzeug>
+        <Id>be220e02-1204-4645-b923-e22dae0aa55c</Id>
+        <Hersteller>Bosch</Hersteller>
+        <Modell>X3</Modell>
+        <TechnischeDaten>500W, SDS-plus</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>e0ecdbc4-0079-4d97-a8f4-f0125203ff1a</KategorieId>
+      </Werkzeug>
+      <Werkzeug>
+        <Id>c9de35c6-e22c-4aaa-a4bc-6abf9531257a</Id>
+        <Hersteller>Bosch</Hersteller>
+        <Modell>X3</Modell>
+        <TechnischeDaten>600W, SDS-plus</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>e0ecdbc4-0079-4d97-a8f4-f0125203ff1a</KategorieId>
+      </Werkzeug>
+      <Werkzeug>
+        <Id>0c7875a8-98ec-4f1c-96ea-ec9736a52e96</Id>
+        <Hersteller>Bosch</Hersteller>
+        <Modell>X3</Modell>
+        <TechnischeDaten>500W, SDS-plus</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>e0ecdbc4-0079-4d97-a8f4-f0125203ff1a</KategorieId>
+      </Werkzeug>
+      <Werkzeug>
+        <Id>f4e9213d-06e3-4f00-8b14-bf15bfec444d</Id>
+        <Hersteller>Makita</Hersteller>
+        <Modell>BHR202</Modell>
+        <TechnischeDaten>18V, Akku</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>e0ecdbc4-0079-4d97-a8f4-f0125203ff1a</KategorieId>
+      </Werkzeug>
+    </Werkzeuge>
+  </Werkzeugkategorie>
+  <Werkzeugkategorie>
+    <Id>688987b7-22f2-4854-8008-14fbce8d376a</Id>
+    <Name>Rüttelplatte</Name>
+    <LeihgebuehrProTag>40</LeihgebuehrProTag>
+    <LeihgebuehrProWoche>200</LeihgebuehrProWoche>
+    <Versicherungspflicht>true</Versicherungspflicht>
+    <Werkzeuge>
+      <Werkzeug>
+        <Id>fb9a0dd1-069e-453a-909c-768d9c277936</Id>
+        <Hersteller>Wacker Neuson</Hersteller>
+        <Modell>VP1550</Modell>
+        <TechnischeDaten>90kg, Benzin</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>688987b7-22f2-4854-8008-14fbce8d376a</KategorieId>
+      </Werkzeug>
+      <Werkzeug>
+        <Id>dc2221ea-6ad3-4d99-a798-54a0965b0f88</Id>
+        <Hersteller>Wacker Neuson</Hersteller>
+        <Modell>VP1550</Modell>
+        <TechnischeDaten>90kg, Benzin</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>688987b7-22f2-4854-8008-14fbce8d376a</KategorieId>
+      </Werkzeug>
+      <Werkzeug>
+        <Id>bfe17daa-fd17-438a-97cc-461755e06e6e</Id>
+        <Hersteller>Bomag</Hersteller>
+        <Modell>BVP 18/45</Modell>
+        <TechnischeDaten>108kg, Benzin</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>688987b7-22f2-4854-8008-14fbce8d376a</KategorieId>
+      </Werkzeug>
+      <Werkzeug>
+        <Id>4f2a5ee6-7f94-48b5-a13e-60a6033ed2a3</Id>
+        <Hersteller>Bomag</Hersteller>
+        <Modell>BVP 18/45</Modell>
+        <TechnischeDaten>110kg, Benzin</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>688987b7-22f2-4854-8008-14fbce8d376a</KategorieId>
+      </Werkzeug>
+    </Werkzeuge>
+  </Werkzeugkategorie>
+  <Werkzeugkategorie>
+    <Id>de66b2d6-6c19-4b9d-8a93-1492c1576cbf</Id>
+    <Name>Winkelschleifer</Name>
+    <LeihgebuehrProTag>25</LeihgebuehrProTag>
+    <LeihgebuehrProWoche>120</LeihgebuehrProWoche>
+    <Versicherungspflicht>false</Versicherungspflicht>
+    <Werkzeuge>
+      <Werkzeug>
+        <Id>1d277e0c-6ede-4fda-b6ff-e1e42c17fdd2</Id>
+        <Hersteller>Bosch</Hersteller>
+        <Modell>GWS 7-125</Modell>
+        <TechnischeDaten>720W, 125mm</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>de66b2d6-6c19-4b9d-8a93-1492c1576cbf</KategorieId>
+      </Werkzeug>
+      <Werkzeug>
+        <Id>5c76247b-b57c-4d82-a48b-938269f6f04a</Id>
+        <Hersteller>Bosch</Hersteller>
+        <Modell>GWS 7-125</Modell>
+        <TechnischeDaten>720W, 125mm</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>de66b2d6-6c19-4b9d-8a93-1492c1576cbf</KategorieId>
+      </Werkzeug>
+      <Werkzeug>
+        <Id>c000bf8f-9012-4876-8333-3e75bb7a30ab</Id>
+        <Hersteller>Einhell</Hersteller>
+        <Modell>TE-AG 125</Modell>
+        <TechnischeDaten>850W, Softstart</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>de66b2d6-6c19-4b9d-8a93-1492c1576cbf</KategorieId>
+      </Werkzeug>
+      <Werkzeug>
+        <Id>5acfe495-e3fc-44c3-9a88-74a7847fc85b</Id>
+        <Hersteller>Makita</Hersteller>
+        <Modell>GA5030</Modell>
+        <TechnischeDaten>720W, 125mm</TechnischeDaten>
+        <Anzahl>1</Anzahl>
+        <KategorieId>de66b2d6-6c19-4b9d-8a93-1492c1576cbf</KategorieId>
+      </Werkzeug>
+    </Werkzeuge>
+  </Werkzeugkategorie>
+</ArrayOfWerkzeugkategorie>
