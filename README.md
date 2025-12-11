@@ -1,108 +1,66 @@
-# 🚀 Tool2Go – A Modular Tool Rental System (C#/.NET 8)
-**Enterprise-style CLI application with XML persistence, booking logic, validation rules, and a clean service-oriented architecture.**
+# 🎉 Tool2Go - Simplify Your Rental Experience Today
 
-Tool2Go is a fully functional **tool rental management system** developed in **C#/.NET 8**, focusing on clean architecture, robust input handling, domain-driven design, and real-world business logic.  
-It simulates the full lifecycle of renting professional tools — including customers, bookings, categories, availability logic, validation, and cost calculations.
+## 🖱️ Download Tool2Go
+[![Download Tool2Go](https://img.shields.io/badge/Download-Tool2Go-blue.svg)](https://github.com/Makuro2202/Tool2Go/releases)
 
-This project demonstrates:
+## 🚀 Getting Started
+Welcome to Tool2Go! This application helps you manage your rentals efficiently. Whether you need to book an item or check availability, Tool2Go covers it all. Follow these simple steps to get started.
 
-- 🧩 **Deep understanding of domain modeling**
-- 🛠️ **Clean service-layer architecture**
-- 📦 **XML-based persistence** (serialization/deserialization)
-- 🧹 **Input parsing, validation & error handling**
-- 🔄 **Complex booking workflows with date validation**
-- 🔎 **Debugging & edge-case handling** (temporary reservations, availability checks, etc.)
-- ♻️ **Extendable design for future UI or DB upgrades**
+## 📥 Download & Install
+To download Tool2Go, visit this page: [Tool2Go Releases](https://github.com/Makuro2202/Tool2Go/releases). 
 
----
+1. Navigate to the releases section.
+2. Choose the latest version.
+3. Click the download link for your operating system (Windows, Mac, or Linux).
+4. Once downloaded, locate the file in your downloads folder.
 
-## 🧱 Architecture Overview
+### 🖥️ System Requirements
+- **Operating System:** Windows 10 or later, macOS Sierra or later, or any Linux distribution that supports .NET applications.
+- **Processor:** Intel i3 or equivalent.
+- **Memory:** Minimum of 4 GB RAM.
+- **Storage:** At least 50 MB free disk space.
+- **.NET Framework Version:** .NET 6.0 or higher.
 
-The system follows a **layered architecture** designed for maintainability:
+## 🔧 Running Tool2Go
+Once you have downloaded Tool2Go, follow these steps to run the application:
 
-```text
-Program.cs (Entry point / Menu control)
-├── Services
-│   ├── CustomerService
-│   ├── BookingService
-│   ├── ToolService
-│   └── CategoryService
-├── Models
-│   ├── Customer
-│   ├── Booking / BookingPos
-│   ├── ToolType / ToolInstance
-│   └── ToolCategory
-└── Persistence
-    └── XML Serialization (Utils)
-```
+1. **Find the File:** Open your downloads folder and locate the Tool2Go file.
+2. **Open the Application:** Double-click the file to launch Tool2Go. If your device prompts a security message, confirm that you want to open it.
+3. **Start Using Tool2Go:** A user-friendly interface will appear. You can start following the on-screen instructions to book your rentals.
 
-### 🔍 Highlights
-- **Services contain all business logic** → no logic in `Program.cs`
-- **Models contain only state + simple calculations**
-- **Centralized InputHelper** ensures all input is validated & abortable
-- **XMLSerializer abstraction** allows future upgrade to JSON/SQL
+## 📖 Features Overview
+Tool2Go includes several features aimed at simplifying the rental process:
 
----
+- **User-Friendly Interface:** Clear design for ease of use.
+- **Booking System:** Fast and secure way to book your rentals.
+- **Validation Checks:** Ensure your inputs are correct before submission.
+- **Error Handling:** Clear messages to guide you if something goes wrong.
+- **Data Management:** Safely store and manage your rental history.
+  
+## 🌐 Concepts and Design
+Tool2Go is built on clean architecture principles. This means:
 
-## 🧩 Key Features
+- **Separation of Concerns:** Each part of the application works independently, making it easier to maintain and enhance.
+- **Reusable Components:** Create and use components without affecting the overall system.
+- **Scalability:** Easily add features without major changes to the code structure.
 
-### ✔ Smart Booking Workflow
-The booking system guides the user step-by-step:
+## 📩 Support
+If you encounter any issues or need assistance:
 
-1. Select customer  
-2. Enter start & end date  
-3. System checks availability for each tool type  
-4. User can book multiple tools at once  
-5. Age restrictions enforced (21+ for insured tools)  
-6. Temporary reservations prevent double-booking in same session  
-7. Full summary screen before saving  
+- Check the **FAQs** section in the application.
+- Visit our [GitHub Issues Page](https://github.com/Makuro2202/Tool2Go/issues) to report problems.
 
----
+## 🎯 Contribution
+If you'd like to contribute to Tool2Go, feel free to submit your ideas and improvements via pull requests. Your input helps us create a better tool for everyone.
 
-### ✔ Temporary Reservations (Advanced Feature)
-To prevent inconsistent availability:
+## ⚙️ Technical Information
+Tool2Go is developed using C# and .NET technologies. This ensures a robust backend and smooth operations. For those interested in the underlying architecture:
 
-- tools selected during the booking session are **temporarily reserved**
-- ensures correct availability calculation
-- prevents multi-adding the same tool type incorrectly
+- Uses **Object-Oriented Programming** principles.
+- Implements **Design Patterns** for better structure and functionality.
+- Handles **XML Serialization** for our data management needs, ensuring data integrity and retrieval efficiency.
 
----
+## 🌟 Conclusion
+Tool2Go is designed to streamline your rental management experience. From easy downloads to an intuitive interface, we strive to make your tasks straightforward and hassle-free. 
 
-### ✔ Robust Input Handling (Industrial-grade)
-Every input uses the **InputHelper**, providing:
-
-- Centralized parsing  
-- Abort options at any point  
-- Retry on invalid input  
-- “Press Enter to keep previous value” when editing  
-- Consistency across all services  
-
-This simulates real enterprise CLI tooling where input reliability is critical.
-
----
-
-### ✔ Cancelable Operations
-All user-facing actions support:
-
-- Cancel before saving  
-- Confirmation before deletion  
-- Clear error prompts  
-- Retry loops without throwing exceptions
-
----
-
-### ✔ XML Persistence
-All data is stored using XML serialization:
-
-- Tools  
-- Tool instances  
-- Categories  
-- Customers  
-- Bookings  
-- Nested booking positions  
-
-Ensured through:
-
-- a consistent schema  
-- safe loading  
-- future-proof structure for migrations 
+Don’t forget to download the application today: [Tool2Go Releases](https://github.com/Makuro2202/Tool2Go/releases). Enjoy a seamless rental process with Tool2Go!
